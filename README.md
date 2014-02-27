@@ -1,4 +1,0 @@
-squib
-=====
-
-Simple Squib Game 

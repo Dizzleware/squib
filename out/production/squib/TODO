@@ -1,0 +1,8 @@
+TODO
+
+Create an entity class
+Create an entity interface
+Create a squib class extends entity
+Create the game class -- includes loop
+Create a game board
+Make AI

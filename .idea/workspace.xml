@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="874ee2c0-cd3c-4a63-88b4-7a53803baebc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TODO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/entity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/squib.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/entity.java" afterPath="$PROJECT_DIR$/src/entity.java" />
     </list>
     <ignored path="Squib.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +78,7 @@
       <file leaf-file-name="entity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/entity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="31" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5056657" vertical-offset="0" max-vertical-offset="706">
+            <state line="20" column="15" selection-start="300" selection-end="300" vertical-scroll-proportion="0.4815864" vertical-offset="0" max-vertical-offset="706">
               <folding />
             </state>
           </provider>
@@ -464,7 +461,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/entity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="31" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5056657" vertical-offset="0" max-vertical-offset="706">
+        <state line="20" column="15" selection-start="300" selection-end="300" vertical-scroll-proportion="0.4815864" vertical-offset="0" max-vertical-offset="706">
           <folding />
         </state>
       </provider>

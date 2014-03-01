@@ -1,7 +1,7 @@
 /**
- * Created by Cayle J. Elsey on 2/27/14.
+ * Created by Cayle J. Elsey on 2/28/14.
  */
-public class main {
+public class token {
     enum DIRECTION{
         NORTH,
         SOUTH,
@@ -18,12 +18,20 @@ public class main {
         BLUE,
         PURPLE;
     }
-    public static void main(String[] args){
-        System.out.print("SWAGGER");
-        token Token = new token();
+
+    public void move(Direction dir){
 
     }
 
+    public void place(Point p){
 
+    }
+
+    public void convert(COLOR color){
+
+    }
+
+    public void delete(){
+
+    }
 }
-
